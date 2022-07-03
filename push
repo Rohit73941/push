@@ -1,2 +1,7 @@
 plot(1:6)
 library(ggplot2)
+plot(1:6)
+library(ggplot2)
+
+boxplot(1:4)
+hist(1:9)
